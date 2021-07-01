@@ -1,8 +1,3 @@
-This program keeps a sorted linked list of integers.	---*
- *---	Users may enter integers in any order.  The integers are kept	---*
- *---	in a linked list, which is always kept sorted in ascending	---*
- *---	order.	
-
 
 #include	<stdlib.h>
 #include	<stdio.h>
